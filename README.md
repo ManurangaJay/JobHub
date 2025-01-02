@@ -1,4 +1,4 @@
-# Job App (Web Application)
+# JobHub (Web Application)
 
 A comprehensive **backend REST API application** developed with **Spring Boot**, designed to manage job listings, companies, and company reviews. The project features robust CRUD functionalities, containerization with Docker, database integration using H2 and PostgreSQL, and lays the foundation for a **microservices architecture**. Currently, the project is being extended with a frontend interface to provide a seamless user experience.
 
